@@ -1,0 +1,31 @@
+/* reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row {
+    background-color: green;
+}
+.box{
+    min-height: 50px;
+    padding: 10px;
+    background-color: #006bfa;
+    border: 1px solid white;
+    color: white;
+    font-size: 15px;
+
+}
+.nested-box{
+    height: 100%;
+    padding: 10px;
+    background-color: lightgreen;
+    border: 1px solid white;
+    color: white;
+    font-size: 15px;
+}
+
+.white {
+    background-color: white;
+}
